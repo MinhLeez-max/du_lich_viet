@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Tour App - Django Project
 
@@ -40,3 +41,6 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
+=======
+# du_lich_viet
+>>>>>>> c94791dcf51ccaebaad3d5aaaa61c8c0997366eb
